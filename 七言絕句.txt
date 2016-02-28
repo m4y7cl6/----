@@ -1,0 +1,6 @@
+public class Java20160208 {
+    public static void main(String[] args)
+    {
+        System.out.printf("《夜雨寄北》\n" +"作者：李商隱\n" +"君問歸期未有期，巴山夜雨漲秋池。\n" +"何當共剪西窗燭，卻話巴山夜雨時。\n");
+    }   
+}
